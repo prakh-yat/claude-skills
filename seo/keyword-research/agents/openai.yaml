@@ -1,0 +1,4 @@
+interface:
+  display_name: "Keyword Research"
+  short_description: "Keyword research SOP + prompts"
+  default_prompt: "Use $keyword-research to research an existing URL or build a keyword strategy from a seed keyword using Ahrefs, GSC, and GA4 data."
