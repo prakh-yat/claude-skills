@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Audit"
+  short_description: "Full-site SEO audit workflow"
+  default_prompt: "Use $seo-audit to interview me first, then run the correct existing-site or new-site SEO audit and deliver prioritized findings."

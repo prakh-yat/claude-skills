@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reporting"
+  short_description: "Monthly SEO reporting slides"
+  default_prompt: "Use $reporting to turn uploaded sample reports and SEO tool data into a polished monthly SEO PowerPoint report with plain-English commentary."

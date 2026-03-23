@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Writing"
+  short_description: "SEO content writing workflow"
+  default_prompt: "Use $content-writing to interview me, research the SERP, and write SEO content with metadata, schema, and internal link suggestions."

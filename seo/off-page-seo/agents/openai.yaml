@@ -1,0 +1,4 @@
+interface:
+  display_name: "Off-Page SEO"
+  short_description: "Guest post outreach workflow"
+  default_prompt: "Use $off-page-seo to find, qualify, and pitch guest post opportunities in my niche using web research and personalized outreach emails."

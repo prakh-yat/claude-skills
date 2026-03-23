@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical SEO"
+  short_description: "Technical SEO audit workflow"
+  default_prompt: "Use $technical-seo to run a full technical SEO audit covering site health, schema, Core Web Vitals, and sitemap plus robots checks."
