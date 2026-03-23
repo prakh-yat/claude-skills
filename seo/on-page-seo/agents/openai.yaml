@@ -1,4 +1,4 @@
 interface:
   display_name: "On-Page SEO"
-  short_description: "Elite on-page SEO workflow"
-  default_prompt: "Use $on-page-seo to optimize an underperforming URL using my GSC, Ahrefs, GA4, Keyword Planner, and Google Trends data."
+  short_description: "Human-first on-page SEO workflow"
+  default_prompt: "Use $on-page-seo to optimize a URL with human-first, data-grounded on-page SEO using my GSC, Ahrefs, GA4, Keyword Planner, and Google Trends data."
