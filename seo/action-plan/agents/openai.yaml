@@ -1,0 +1,4 @@
+interface:
+  display_name: "Action Plan"
+  short_description: "Jira-ready action plans and schedules"
+  default_prompt: "Use $action-plan to turn my completed analysis into Jira-ready tasks and a non-overlapping monthly Excel action plan."
